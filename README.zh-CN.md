@@ -4,7 +4,7 @@
 
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-5B45E9)](https://openclaw.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/midboss1028-beep/open-deep-research?style=social)](https://github.com/midboss1028-beep/open-deep-research)
+[![GitHub stars](https://img.shields.io/github/stars/midboss1028-beep/claw-deep-research?style=social)](https://github.com/midboss1028-beep/claw-deep-research)
 
 ## 这是什么
 
@@ -30,14 +30,14 @@
 ### 方式一：ClawHub（推荐）
 
 ```bash
-clawhub install open-deep-research
+clawhub install claw-deep-research
 ```
 
 ### 方式二：手动
 
 ```bash
 cd ~/.openclaw/workspace/skills
-git clone https://github.com/midboss1028-beep/open-deep-research.git
+git clone https://github.com/midboss1028-beep/claw-deep-research.git
 ```
 
 然后重启 OpenClaw 网关：
@@ -52,7 +52,7 @@ openclaw gateway restart
 your-project/
   └── .agent/
       └── skills/
-          └── open-deep-research/
+          └── claw-deep-research/
               └── SKILL.md
 ```
 

@@ -1,5 +1,5 @@
 ---
-name: open-deep-research
+name: claw-deep-research
 description: "Open Deep Research — 自动迭代深度研究。对任意主题进行递归搜索、信息提炼、多轮深挖，最终生成结构化研究报告。支持中英文。触发词：深度研究、深度调研、深挖、研究报告、/deep。适用于任何 OpenClaw 实例——只需配置好 web_search 提供商即可。"
 metadata:
   {
@@ -110,7 +110,7 @@ MiroMind 的研究模型（MiroThinker-1.7，235B 参数）有三大核心特征
 研究主题：[用户问题]
 研究深度：[深入/极致]
 
-请严格按照 open-deep-research 工作流执行：
+请严格按照 `claw-deep-research` 工作流执行：
 1. 阶段1：全景扫描 — 先做3-5条宽搜索
 2. 阶段2：矛盾识别 — 找矛盾点和盲区
 3. 阶段3：定向深挖 — 针对矛盾精准搜索
