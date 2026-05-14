@@ -4,7 +4,7 @@
 
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-5B45E9)](https://openclaw.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Jim-bo/open-deep-research?style=social)](https://github.com/Jim-bo/open-deep-research)
+[![GitHub stars](https://img.shields.io/github/stars/midboss1028-beep/open-deep-research?style=social)](https://github.com/midboss1028-beep/open-deep-research)
 
 ## 这是什么
 
@@ -37,7 +37,7 @@ clawhub install open-deep-research
 
 ```bash
 cd ~/.openclaw/workspace/skills
-git clone https://github.com/Jim-bo/open-deep-research.git
+git clone https://github.com/midboss1028-beep/open-deep-research.git
 ```
 
 然后重启 OpenClaw 网关：
@@ -82,7 +82,7 @@ Agent 会自动识别你下面这类需求：
 | depth | 2 | 递归层级数 |
 | 预估搜索量 | ~12次 | breadth × (1 + breadth/2) |
 
-## 输出示例
+### 输出示例
 
 完成研究后你会收到类似这样的东西：
 
