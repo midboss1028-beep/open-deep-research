@@ -1,6 +1,6 @@
 ---
 name: claw-deep-research
-description: "Open Deep Research — 自动迭代深度研究。对任意主题进行递归搜索、信息提炼、多轮深挖，最终生成结构化研究报告。支持中英文。触发词：深度研究、深度调研、深挖、研究报告、/deep。适用于任何 OpenClaw 实例——只需配置好 web_search 提供商即可。"
+description: "Claw Deep Research — 自动迭代深度研究。Turn your AI agent into a real research assistant with multi-phase iterative search, contradiction mining, cross-verification, and structured reports. Zero extra API keys. 触发词：/deep、深度研究、深挖。"
 metadata:
   {
     openclaw: {
